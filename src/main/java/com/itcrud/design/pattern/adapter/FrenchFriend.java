@@ -1,4 +1,4 @@
-package com.zdydoit.design.pattern.adapter;
+package com.itcrud.design.pattern.adapter;
 
 /**
  * @Author: YANGBAO352
@@ -8,9 +8,9 @@ package com.zdydoit.design.pattern.adapter;
  * @Project_name: design-pattern
  * @Version 1.0
  */
-public class EnglishFriend {
+public class FrenchFriend {
 
-    //听的功能，并且只接受英文内容
+    //听的功能，并且只接法语内容
     public void doListen(String content) {
         System.out.println(content);
     }

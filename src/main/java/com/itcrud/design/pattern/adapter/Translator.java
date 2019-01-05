@@ -1,4 +1,4 @@
-package com.zdydoit.design.pattern.adapter;
+package com.itcrud.design.pattern.adapter;
 
 public interface Translator{
     //接收中文内容接口

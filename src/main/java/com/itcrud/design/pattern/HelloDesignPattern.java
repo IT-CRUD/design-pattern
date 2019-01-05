@@ -1,4 +1,4 @@
-package com.zdydoit.design.pattern;
+package com.itcrud.design.pattern;
 
 /**
  * @Author: YANGBAO352
