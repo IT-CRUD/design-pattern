@@ -10,4 +10,10 @@ package com.itcrud.design.pattern.builder;
  */
 public class MainTest {
 
+    private static BuilderDirector builderDirector = new BuilderDirector();
+
+    public static void main(String[] args) {
+        builderDirector.build();
+    }
+
 }
